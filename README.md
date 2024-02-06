@@ -52,4 +52,5 @@ Sketch for testing the [LCD TFT circular display](https://letmeknow.fr/fr/ecrans
 ## Resources
 
 - [First attempt at creating part for Waveshare 1.28 inch round LCD module](https://forum.fritzing.org/t/first-attempt-at-creating-part-for-waveshare-1-28-inch-round-lcd-module/16688/2)
+- [Breadboard game using Arduino NANO ESP32 and GC9A01 display](https://www.youtube.com/watch?v=GjI8mUnlrPM)
 
